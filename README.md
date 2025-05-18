@@ -41,4 +41,7 @@ This project analyzes customer churn data to identify patterns and build predict
 👤 Author: Harsh Pardhi
 📬 Contact: harshpardhi477@gmail.com
 
+![WhatsApp Image 2025-05-16 at 19 04 12](https://github.com/user-attachments/assets/8dfa762e-40b8-44be-8353-69198680f531)
+
+
 
